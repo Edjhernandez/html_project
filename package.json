@@ -1,4 +1,5 @@
-{ "name": "html_project",
+{
+  "name": "html_project",
   "version": "1.0.0",
   "description": "This is basically a practice with HTML's <strong>Tags</strong>, here we are going to learn how to identify the website's structure from a figma design.",
   "main": "index.js",
